@@ -11,6 +11,7 @@ namespace SampleGitPush1
         static void Main(string[] args)
         {
             Console.WriteLine("Hi");
+            Console.WriteLine("Sowji");
             Console.WriteLine("Bye");
             
         }
